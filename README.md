@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohelxshaikh" alt="sohelxshaikh" /></a> </p>
 
+
 - 🌱 I’m currently learning **React JS , GSAP and more**
 
 - 👨‍💻 All of my projects are available at [https://sohelxshaikh.github.io/Project-7--Personal-Portfolio-/](https://sohelxshaikh.github.io/Project-7--Personal-Portfolio-/)
